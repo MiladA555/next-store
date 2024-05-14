@@ -9,7 +9,7 @@ export default function Home() {
           Hello!
         </h1>
         <h2 className={style.h2tag}>
-          OK
+          test
         </h2>
       </div>
     </section>
